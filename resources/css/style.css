@@ -1,7 +1,7 @@
 h1 {
   font-family: Verdana;
   font-weight: normal;
-  font-size: 50px;  
+  font-size: 50px;
   text-align: center;
 }
 body {
@@ -9,4 +9,19 @@ body {
     text-align: center;
     background-color: black;
     color: white;
+}
+.cta {
+    color: Aquamarine;
+    font-size: 16px;
+}
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+p {
+    color: Gray;
+    font-size: 21px;
+}
+.footer {
+    text-align: right;
 }
